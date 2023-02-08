@@ -8,6 +8,8 @@ import { MovieService } from './movie.service';
 })
 export class AppComponent {
   title = 'movie-list';
+  name = 'Dylan Duignan';
+  studentID = 'S00222859';
 
   movies=[] as any;
 
